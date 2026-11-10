@@ -39,6 +39,29 @@
 
 </div>
 
+## 🚀 Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://adamettossain-dev.github.io/Adhome-/"><img src="https://raw.githubusercontent.com/adamettossain-dev/adamettossain-dev/main/adhome.svg" width="420" alt="Adhome" /></a>
+      </td>
+      <td align="center">
+        <a href="https://adamettossain-dev.github.io/Espace_Stagiaire/"><img src="https://raw.githubusercontent.com/adamettossain-dev/adamettossain-dev/main/espace-stagiaire.svg" width="420" alt="Espace Stagiaire" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://adamettossain-dev.github.io/Spy_Game/"><img src="https://raw.githubusercontent.com/adamettossain-dev/adamettossain-dev/main/spy-game.svg" width="420" alt="Spy Game" /></a>
+      </td>
+      <td align="center">
+        <a href="https://adamettossain-dev.github.io/movie-project/"><img src="https://raw.githubusercontent.com/adamettossain-dev/adamettossain-dev/main/movie-project.svg" width="420" alt="Movie Project" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 📊 Activity
 
 <div align="center">

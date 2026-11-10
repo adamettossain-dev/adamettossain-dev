@@ -27,6 +27,8 @@
 - 📋 Agile / Scrum with **Jira**
 - 🌱 Currently looking for an **internship** to grow and ship real projects
 
+<br/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">

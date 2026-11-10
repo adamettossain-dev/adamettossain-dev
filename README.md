@@ -11,8 +11,9 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/TON-LIEN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:TON-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/adam-ettossain-2291a7404"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:adamtroncomm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/adamettossain-dev?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" title="See my projects" /></a>
 
 </div>
 
@@ -35,15 +36,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,jira,vscode,postman,figma&theme=dark" />
 
 </div>
-
-## 🚀 Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**Adhome**](https://github.com/adamettossain-dev/Adhome-) | E-commerce website | HTML · CSS |
-| [**Espace Stagiaire**](https://github.com/adamettossain-dev/Espace_Stagiaire) | Trainee space web app | JavaScript |
-| [**Spy Game**](https://github.com/adamettossain-dev/Spy_Game) | Browser game | HTML · JS |
-| [**SH Fitness**](https://github.com/adamettossain-dev/sh_fitness) | Fitness website | HTML · CSS |
 
 ## 📊 Activity
 

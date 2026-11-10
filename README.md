@@ -12,8 +12,8 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/adam-ettossain-2291a7404"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:adamtroncomm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/adamettossain-dev?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" title="See my projects" /></a>
+<a href="mailto:adamtroncomm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 

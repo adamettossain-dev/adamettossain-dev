@@ -39,4 +39,10 @@
 
 </div>
 
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/adamettossain-dev/adamettossain-dev/output/github-snake-dark.svg" alt="snake animation" width="100%" />
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />

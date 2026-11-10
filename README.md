@@ -39,12 +39,4 @@
 
 </div>
 
-## 📊 Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=adamettossain-dev&theme=tokyonight&hide_border=true" />
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />

@@ -39,6 +39,14 @@
 
 </div>
 
+## 📊 Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=adamettossain-dev&theme=tokyonight&hide_border=true" />
+
+</div>
+
 <div align="center">
   
 <img src="https://raw.githubusercontent.com/adamettossain-dev/adamettossain-dev/output/github-snake-dark.svg" alt="snake animation" width="100%" />

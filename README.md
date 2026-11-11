@@ -11,9 +11,8 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/adam-ettossain"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/adamettossain-dev?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" title="See my projects" /></a>
-<a href="mailto:adamtroncomm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/adam-ettossain-2291a7404"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:adamettossain@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -27,7 +26,11 @@
 - 📋 Agile / Scrum with **Jira**
 - 🌱 Currently looking for an **internship** to grow and ship real projects
 
-<br/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/adamettossain-dev/adamettossain-dev/main/fun-fact.svg" alt="Fun fact" />
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -35,43 +38,48 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,laravel,mysql,python&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,jira,vscode,postman,figma&theme=dark" />
 
 </div>
 
 ## 🚀 Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://adamettossain-dev.github.io/Adhome-/"><img src="https://raw.githubusercontent.com/adamettossain-dev/adamettossain-dev/main/adhome.svg" width="420" alt="Adhome" /></a>
-      </td>
-      <td align="center">
-        <a href="https://adamettossain-dev.github.io/Espace_Stagiaire/"><img src="https://raw.githubusercontent.com/adamettossain-dev/adamettossain-dev/main/espace-stagiaire.svg" width="420" alt="Espace Stagiaire" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://adamettossain-dev.github.io/Spy_Game/"><img src="https://raw.githubusercontent.com/adamettossain-dev/adamettossain-dev/main/spy-game.svg" width="420" alt="Spy Game" /></a>
-      </td>
-      <td align="center">
-        <a href="https://adamettossain-dev.github.io/movie-project/"><img src="https://raw.githubusercontent.com/adamettossain-dev/adamettossain-dev/main/movie-project.svg" width="420" alt="Movie Project" /></a>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td align="center">
+<a href="https://adamettossain-dev.github.io/Adhome-/"><img src="https://raw.githubusercontent.com/adamettossain-dev/adamettossain-dev/main/adhome.svg" width="420" alt="Adhome" /></a>
+</td>
+<td align="center">
+<a href="https://adamettossain-dev.github.io/Espace_Stagiaire/"><img src="https://raw.githubusercontent.com/adamettossain-dev/adamettossain-dev/main/espace-stagiaire.svg" width="420" alt="Espace Stagiaire" /></a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://adamettossain-dev.github.io/Spy_Game/"><img src="https://raw.githubusercontent.com/adamettossain-dev/adamettossain-dev/main/spy-game.svg" width="420" alt="Spy Game" /></a>
+</td>
+<td align="center">
+<a href="https://adamettossain-dev.github.io/movie-project/"><img src="https://raw.githubusercontent.com/adamettossain-dev/adamettossain-dev/main/movie-project.svg" width="420" alt="Movie Project" /></a>
+</td>
+</tr>
+</table>
 </div>
 
 ## 📊 Activity
+
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adamettossain-dev&theme=tokyonight" alt="Profile details" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/adamettossain-dev/adamettossain-dev/output/github-snake-dark.svg" alt="snake animation" width="100%" />
+
 </div>
 
 <div align="center">
-  
-<img src="https://raw.githubusercontent.com/adamettossain-dev/adamettossain-dev/output/github-snake-dark.svg" alt="snake animation" width="100%" />
+
+<img src="https://raw.githubusercontent.com/adamettossain-dev/adamettossain-dev/main/thanks.svg" alt="Thanks for visiting my profile" />
 
 </div>
 

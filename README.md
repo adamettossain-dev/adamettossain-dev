@@ -12,6 +12,7 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/adam-ettossain-2291a7404"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://adamettossain-dev.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge" /></a>
 <a href="mailto:adamettossain@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>

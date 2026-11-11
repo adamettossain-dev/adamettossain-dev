@@ -63,6 +63,11 @@
 </div>
 
 ## 📊 Activity
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adamettossain-dev&theme=tokyonight" alt="Profile details" />
+
+</div>
 
 <div align="center">
   
